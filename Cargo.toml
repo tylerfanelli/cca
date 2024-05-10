@@ -8,3 +8,7 @@ license = "Apache-2.0"
 readme = "README.md"
 
 [dependencies]
+kvm-bindings = { path = "../kvm-bindings" }
+kvm-ioctls = { path = "../kvm-ioctls" }
+libc = "0.2.154"
+vmm-sys-util = "0.12.1"
