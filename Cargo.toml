@@ -1,6 +1,6 @@
 [package]
 name = "cca"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 author = ["The VirTEE Authors <virtee-security@redhat.com>"]
 description = "Library for ARM CCA"
